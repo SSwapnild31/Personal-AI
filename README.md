@@ -54,11 +54,15 @@ Install dependencies:
   pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+## ▶️ Run the assistant
 
-+ Run the assistant:
++ Command Line Based
 ```bash
-  python main.py
+  python ownAI.py
+```
++ GUI Based
+```bash
+  python NewAI.py
 ```
 
 + Example commands:
