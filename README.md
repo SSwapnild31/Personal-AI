@@ -25,11 +25,20 @@
 ## 📁 Project Structure
 
 ```bash
-personal-ai/
-│── main.py
-│── requirements.txt
+Personal-AI/
+│── ownAI.py
+│── NewAI.py
 │── README.md
+│── googleImage.png
+│── Google_mic.png
+│── Logo.webp
 ```
+
+Google_mic.png
+Logo.webp
+NewAI.py
+googleImage.png
+ownAI.py
 
 ## ⚙️ Installation
 
